@@ -19,14 +19,16 @@
 
 * 逆向出题思路收集
     * [[Re_Demo_Wiki](https://github.com/xxr0ss/Re_Demo_Wiki)]
+    * 根据某课程魔改的VM[[Tiny_CPU_simulator](https://github.com/xxr0ss/Tiny_CPU_simulator)]
 
 
 ## 其他社交主页
 
 看雪论坛：[https://bbs.pediy.com/user-home-887880.htm](https://bbs.pediy.com/user-home-887880.htm)
 
-博客(建设中)：[https://xxr0ss.github.io/](https://xxr0ss.github.io/)
+博客：[https://xxr0ss.github.io/](https://xxr0ss.github.io/)
 
 ## 我的GitHub Stats
 (💦没啥star所以放底下了)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxr0ss&show_icons=true&line_height=33&count_private=true&theme=light" alt="mrexodia's GitHub Stats" />
