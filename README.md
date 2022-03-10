@@ -8,7 +8,7 @@
     * PE解析工具[[CrossPE](https://github.com/xxr0ss/CrossPE)]
     * 扩展下业务[[CrossBinary](https://github.com/xxr0ss/CrossBinary)] [[CrossBinary_console](https://github.com/xxr0ss/CrossBinary_console)]
 
-* 喜欢地平线在内的各种赛车游戏 [[fh5_telemetry](https://github.com/xxr0ss/fh5_telemetry)]
+* 喜欢地平线在内的各种赛车游戏 [[fh5_telemetry](https://github.com/xxr0ss/fh5_telemetry)] [[fh5_helper](https://github.com/xxr0ss/fh5_helper)]
 
 * 喜欢用Python偷懒、整活
     * [[PythonStuff](https://github.com/xxr0ss/PythonStuff)]
