@@ -18,6 +18,7 @@
     * [[NumPuz](https://github.com/xxr0ss/numpuz)]
 
 * 逆向出题思路收集
+    * [[AntiFrida]](https://github.com/xxr0ss/AntiFrida)
     * [[Re_Demo_Wiki](https://github.com/xxr0ss/Re_Demo_Wiki)]
     * 根据某课程魔改的VM[[Tiny_CPU_simulator](https://github.com/xxr0ss/Tiny_CPU_simulator)]
 * 热衷使用CMake来管理项目[[my_cmake_demo](https://github.com/xxr0ss/my_cmake_demo.git)]
