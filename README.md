@@ -13,9 +13,10 @@
 * 喜欢用Python偷懒、整活
     * [[PythonStuff](https://github.com/xxr0ss/PythonStuff)]
 
-* 没事写的小游戏
+* 没事写的小游戏/软件
     * [[Console2048](https://github.com/xxr0ss/Console2048)]
     * [[NumPuz](https://github.com/xxr0ss/numpuz)]
+    * [[pyQEditor](https://github.com/xxr0ss/pyQEditor)]
 
 * 逆向出题思路收集
     * [[AntiFrida]](https://github.com/xxr0ss/AntiFrida)
