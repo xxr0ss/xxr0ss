@@ -7,6 +7,7 @@
     * 悄悄推广下Syclover的ctfbox[[ctfbox](https://github.com/SycloverTeam/ctfbox)]
     * PE解析工具[[CrossPE](https://github.com/xxr0ss/CrossPE)]
     * 扩展下业务[[CrossBinary](https://github.com/xxr0ss/CrossBinary)] [[CrossBinary_console](https://github.com/xxr0ss/CrossBinary_console)]
+    * Android逆向辅助工具[[Android Bud]](https://github.com/xxr0ss/AndroidBud)
 
 * 喜欢地平线在内的各种赛车游戏 [[fh5_telemetry](https://github.com/xxr0ss/fh5_telemetry)] [[fh5_helper](https://github.com/xxr0ss/fh5_helper)]
 
