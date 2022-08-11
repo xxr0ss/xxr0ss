@@ -3,29 +3,6 @@
 ## 关于我
 逆向 | 开发 | 信息安全
 
-* 喜欢开发小工具
-    * 悄悄推广下Syclover的ctfbox[[ctfbox](https://github.com/SycloverTeam/ctfbox)]
-    * PE解析工具[[CrossPE](https://github.com/xxr0ss/CrossPE)]
-    * 扩展下业务[[CrossBinary](https://github.com/xxr0ss/CrossBinary)] [[CrossBinary_console](https://github.com/xxr0ss/CrossBinary_console)]
-    * Android逆向辅助工具[[Android Bud](https://github.com/xxr0ss/AndroidBud)]
-
-* 喜欢地平线在内的各种赛车游戏 [[fh5_telemetry](https://github.com/xxr0ss/fh5_telemetry)] [[fh5_helper](https://github.com/xxr0ss/fh5_helper)]
-
-* 喜欢用Python偷懒、整活
-    * [[PythonStuff](https://github.com/xxr0ss/PythonStuff)]
-
-* 没事写的小游戏/软件
-    * [[Console2048](https://github.com/xxr0ss/Console2048)]
-    * [[NumPuz](https://github.com/xxr0ss/numpuz)]
-    * [[pyQEditor](https://github.com/xxr0ss/pyQEditor)]
-
-* 逆向出题思路收集
-    * [[AntiFrida]](https://github.com/xxr0ss/AntiFrida)
-    * [[Re_Demo_Wiki](https://github.com/xxr0ss/Re_Demo_Wiki)]
-    * 根据某课程魔改的VM[[Tiny_CPU_simulator](https://github.com/xxr0ss/Tiny_CPU_simulator)]
-* 热衷使用CMake来管理项目[[my_cmake_demo](https://github.com/xxr0ss/my_cmake_demo.git)]
-
-
 ## 其他社交主页
 
 看雪论坛：[https://bbs.pediy.com/user-home-887880.htm](https://bbs.pediy.com/user-home-887880.htm)
